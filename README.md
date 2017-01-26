@@ -704,7 +704,7 @@ Thinking in Java book is written by Bruce Eckel who is also the author of Thinki
 
 *Frameworks that are suites of multiple libraries encompassing several categories.*
 
-* [CUBA Platform](https://cuba-platform.com) - High level framework for development of enterprise applications with rich web interface, based on Spring, EclipseLink and Vaadin.
+* [CUBA Platform](https://cuba-platform.com) - High level framework for rapid development of enterprise applications with rich web interface and out-of-the-box enterpise features, such as security, permission management, dynamic attributes, entity log, Generic REST and so on.
 * [Spring](http://projects.spring.io/spring-framework/) - Provides many packages ranging from dependency injection to aspect-oriented programming to security.
 
 ## Reactive libraries
